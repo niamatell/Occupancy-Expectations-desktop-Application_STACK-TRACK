@@ -1,0 +1,134 @@
+{
+  "ShowLogs": true,
+  "QMainWindow": [
+    {
+      "tittle": "STACK TRACK",
+      "icon": "C:/Egt-Project/loo.png"
+    }
+  ],
+  "QSettings": [
+    {
+      "ThemeSettings": [
+        {
+          "CustomTheme": [
+            {
+              "Background-color": "#ffffff",
+              "Text-color": "#000000",
+              "Accent-color": "#000000",
+              "Icons-color": "#000000",
+              "Theme-name": "Default-theme",
+              "Default-Theme": true
+            }
+          ]
+        }
+      ],
+      "AppSettings": {
+        "OrginizationName": "Eurogate",
+        "ApplicationName": "Eurogate Company",
+        "OrginizationDormain": "Eurogate.org"
+      }
+    }
+  ],
+  "QPushButtonGroup":[
+    {
+      "Buttons": [
+        "homeBtn",
+        "reportsBtn",
+        "settingsBtn"
+      ],
+      "ActiveButton": "homeBtn",
+      "Style": [
+        {
+          "Active":"border-left: 3px solid #EBF1F6; font-weight: bold; background-color: #1461A3;",
+          "NotActive": "background-color: transparent; border:none;"
+        }
+      ]
+    }
+  ],
+  "QCustomSlideMenu":[
+    {
+      "name":"leftMenu",
+      "defaultSize":[
+        {
+        "width":130,
+        "height":"parent"
+    }
+  ],
+      "collapsedSize":[
+        {
+        "width":0,
+        "height":"parent"
+    }
+  ],
+    "expandedSize":[
+      {
+        "width":130,
+        "height":"parent"
+    }
+  ],
+    "toggleButton":[
+      {
+        "buttonName":"menuBtn"    
+      }
+  ],
+
+    "menuTransitionAnimation":[
+      {
+        "animationDuration": 500,
+        "animationEasingCurve": "OutBack" 
+      }
+    ]
+  }
+    
+  ],
+
+  "QCustomQStackedWidget":[
+		{
+			"name":"mainPages",
+			"transitionAnimation":[
+				{
+					"slide":[
+						{
+							"active":true,
+							"duration": 1000,
+							"direction": "horizontal",
+							"easingCurve": "OutBack"
+						}
+					]
+        }
+      ],
+			"navigation":[
+				{
+					"navigationButtons":[
+						{
+						  "homeBtn":"homePage",
+              "reportsBtn":"reportsPage",
+              "settingsBtn":"settingsPage"
+						}
+					]
+				}
+			]
+	
+		}
+	],
+  "QCustomProgressIndicator": [
+    {
+        "name": "myProgressBar",
+        "color": "#000000;",
+        "fillColor": "#00FFFF",
+        "warningFillColor": "#0000ff",
+        "errorFillColor": "THEME.COLOR_ACCENT_2",
+        "successFillColor": "THEME.COLOR_ACCENT_1",
+        "formProgressCount": 5,
+        "formProgressAnimationDuration": 2000,
+        "formProgressAnimationEasingCurve": "OutBack",
+        "height": 5,
+        "width": 500,
+        "startPercentage": 0,
+        "theme": 3,
+        "inheritTheme": true
+    }
+],
+ 
+  "QtBinding": "PySide6"
+}

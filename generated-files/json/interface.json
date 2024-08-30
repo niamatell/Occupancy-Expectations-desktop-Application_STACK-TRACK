@@ -1,0 +1,86 @@
+{
+  "QLabel": [
+    {
+      "name": "label_22",
+      "pixmap": "C:\\Users\\surfac\\Downloads\\stacktrack.png"
+    },
+    {
+      "name": "label_3",
+      "pixmap": "C:\\Users\\surfac\\Downloads\\pixlr-image-generator-279762b6-9f18-416c-974c-39e91337df78.png"
+    },
+    {
+      "name": "passIcon",
+      "pixmap": "C:\\Eurogate\\Qss\\icons\\Icons\\font_awesome\\solid\\lock.png"
+    },
+    {
+      "name": "label_13",
+      "pixmap": "Qss/icons/icons/font_awesome/solid/circle-user.png"
+    },
+    {
+      "name": "label_5",
+      "pixmap": "Qss/icons/icons/font_awesome/solid/circle-user.png"
+    },
+    {
+      "name": "label_6",
+      "pixmap": "C:\\Eurogate\\Qss\\icons\\Icons\\font_awesome\\solid\\lock.png"
+    },
+    {
+      "name": "label_7",
+      "pixmap": "C:\\Eurogate\\Qss\\icons\\Icons\\font_awesome\\solid\\envelope.png"
+    },
+    {
+      "name": "label_11",
+      "pixmap": "C:\\Eurogate\\Qss\\icons\\Icons\\font_awesome\\solid\\user.png"
+    },
+    {
+      "name": "label_21",
+      "pixmap": "C:\\Users\\surfac\\Downloads\\stacktrack.png"
+    }
+  ],
+  "QPushButton": [
+    {
+      "name": "eyeBtn",
+      "icon": "Qss/icons/icons/feather/eye.png"
+    },
+    {
+      "name": "eyeBtn_5",
+      "icon": "Qss/icons/icons/feather/eye.png"
+    },
+    {
+      "name": "menuBtn",
+      "icon": "C:\\Users\\surfac\\Downloads\\menu.png"
+    },
+    {
+      "name": "userBtn",
+      "icon": "C:\\Users\\surfac\\Downloads\\se-deconnecter.png"
+    },
+    {
+      "name": "homeBtn",
+      "icon": "C:\\Users\\surfac\\Downloads\\accueil (1).png"
+    },
+    {
+      "name": "reportsBtn",
+      "icon": "C:\\Users\\surfac\\Downloads\\barre-graphique.png"
+    },
+    {
+      "name": "settingsBtn",
+      "icon": "C:\\Users\\surfac\\Downloads\\parametre.png"
+    },
+    {
+      "name": "exportBtn",
+      "icon": "C:\\Users\\surfac\\Downloads\\fleche-vers-le-bas.png"
+    },
+    {
+      "name": "eyeBtn_4",
+      "icon": "Qss/icons/icons/feather/eye.png"
+    },
+    {
+      "name": "eyeBtn_3",
+      "icon": "Qss/icons/icons/feather/eye.png"
+    },
+    {
+      "name": "eyeBtn_2",
+      "icon": "Qss/icons/icons/feather/eye.png"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+
+            //===================================================//
+            // FILE AUTO-GENERATED. PUT YOUR DEFAULT STYLES HERE. 
+            // THESE STYLES WILL OVERIDE THE THEME STYLES
+            //====================================================//
+            *{
+                border: none;
+                background-color: transparent;
+                background: transparent;
+                padding: 0;
+                margin: 0;
+           
+           }
+           
+           #MainPage{
+            background-color: #ffffff;
+           }
+           
+           #userBtn, #exportBtn{
+                text-align: center;
+               
+            }
+            #leftMenu{
+           background-color: #0F497B;
+            text-align: left;
+             padding: 5px 10px;
+           }
+           
+           #homeBtn{
+                 border-left: 3px solid #EBF1F6;
+                  font-weight: bold;
+                  background-color: #1461A3;
+           }
+           
+           #header{
+                background-color: #0F497B;
+           } 
+           #footer_2{
+           background-color: #0D406D;
+           color: #ffffff;
+           }
+           #footer_3{
+                background-color: #0D406D;
+               color: #FFFFFF;
+           }
+           
+           #mainBody{
+               background-color: #FFFFFF;
+           }
+           #LoginPage{
+           background-color: #0F497B;
+           }
+           #loginBtn, #signupBtn{
+                text-align: left;
+                text-align: center;
+               background-color: #0F497B;
+               color: #ffffff;
+           }
+           #leftMenu QPushButton{
+            padding: 5px 10px;
+            background-color: transparent;
+            color: #ffffff;
+
+          }
+            
+           QLineEdit{
+                background-color: #1b1b27;
+                padding: 10px 10px;
+                border-radius: 10px;
+           }
+           
+           #homeBtn{
+           background-color: #1461A3;
+                 border-left: 3px solid #EBF1F6;
+                  font-weight: bold;
+           }
+            //===================================================//
+            // END //
+            //====================================================//
+            
